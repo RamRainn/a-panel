@@ -55,10 +55,10 @@
             </div>
           </div>
 
-          <div class="mt-5 space-y-4">
-            <div class="flex flex-col">
+          <div class="mt-5 space-y-4 px-3">
+            <div class="flex flex-col border-l-8 border-transparent hover:border-l-8 hover:border-main">
               <div class="-my-2 overflow-x-auto">
-                <div class="py-2 align-middle inline-block min-w-full sm:px-6">
+                <div class="py-2 align-middle inline-block min-w-full ">
                   <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
                     <table class="w-full">
                       <tbody class="bg-white">
