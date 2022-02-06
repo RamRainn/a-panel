@@ -120,9 +120,9 @@
                 </div>
               </div>
             </div>
-            <div class="flex flex-col">
+            <div class="flex flex-col border-l-8 border-transparent hover:border-l-8 hover:border-main">
               <div class="-my-2 overflow-x-auto">
-                <div class="py-2 align-middle inline-block min-w-full sm:px-6">
+                <div class="py-2 align-middle inline-block min-w-full ">
                   <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
                     <table class="w-full">
                       <tbody class="bg-white">
@@ -184,6 +184,71 @@
                 </div>
               </div>
             </div>
+            <div class="flex flex-col border-l-8 border-transparent hover:border-l-8 hover:border-main">
+              <div class="-my-2 overflow-x-auto">
+                <div class="py-2 align-middle inline-block min-w-full ">
+                  <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
+                    <table class="w-full">
+                      <tbody class="bg-white">
+                      <tr>
+                        <td class="px-10 py-4 whitespace-nowrap">
+                          <div class="flex items-center">
+                            <div class="flex-shrink-0 h-10 w-10">
+                              <img class="h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60" alt="">
+                            </div>
+                            <div class="ml-28 space-y-4">
+                              <div class="text-sm font-bold text-gray-900">ФИО</div>
+                              <div class="text-sm font-bold text-gray-900">E-mail</div>
+                            </div>
+                          </div>
+                        </td>
+                        <td class="px-10 py-4 whitespace-nowrap space-y-4">
+                          <div class="text-sm text-text-gray font-normal">Jarod O'Connell</div>
+                          <div class="text-sm text-text-gray font-normal">overy.block2188@walter.com</div>
+                        </td>
+
+                        <td class="px-10 py-4 whitespace-nowrap space-y-4">
+                          <div class="text-sm font-bold text-gray-900">Телефон</div>
+                          <div class="text-sm font-bold text-gray-900">Заказов</div>
+                        </td>
+
+                        <td class="px-10 py-4 whitespace-nowrap space-y-4">
+                          <div class="text-sm text-text-gray font-normal">1-971-592-3086</div>
+                          <div class="text-sm text-text-gray font-normal">2</div>
+                        </td>
+
+                        <td class="px-10 py-4 whitespace-nowrap space-y-4">
+                          <div class="text-sm font-bold text-gray-900">Дата последнего заказа
+                          </div>
+                          <div class="text-sm font-bold text-gray-900">Сумма заказов	</div>
+                        </td>
+
+                        <td class="px-10 py-4 whitespace-nowrap space-y-4">
+                          <div class="text-sm text-text-gray font-normal">2021.11-07 08:44:36</div>
+                          <div class="text-sm text-text-gray font-normal">1236</div>
+                        </td>
+
+                        <td class="whitespace-nowrap ">
+                          <button class="mr-20">
+                            <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M0.305919 0.264139C0.110039 0.433317 -2.89694e-08 0.662742 -3.9426e-08 0.901961C-4.98826e-08 1.14118 0.110039 1.37061 0.305919 1.53978L5.47795 6.00545L0.305919 10.4711C0.11559 10.6413 0.0102743 10.8691 0.0126549 11.1057C0.0150355 11.3422 0.124922 11.5685 0.318646 11.7358C0.512371 11.903 0.774433 11.9979 1.04839 12C1.32235 12.002 1.58628 11.9111 1.78334 11.7468L7.69408 6.64327C7.88996 6.47409 8 6.24467 8 6.00545C8 5.76623 7.88996 5.5368 7.69408 5.36762L1.78334 0.264139C1.5874 0.0950108 1.32169 5.77728e-08 1.04463 4.56623e-08C0.767573 3.35517e-08 0.501858 0.0950107 0.305919 0.264139Z" fill="#3D3D3D" fill-opacity="0.7"/>
+                            </svg>
+
+                          </button>
+                        </td>
+                      </tr>
+
+
+
+
+                      </tbody>
+                    </table>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
         </div>
