@@ -36,6 +36,8 @@
             <nuxt-link to="/products-page">Продукты/товары</nuxt-link>
             <nuxt-link to="/referal-program">Реферальные программы</nuxt-link>
             <nuxt-link to="/program-page">Создание программы</nuxt-link>
+            <nuxt-link to="/balance-page">Баланс(без адаптива и статистики)</nuxt-link>
+
           </div>
         </div>
       </div>
